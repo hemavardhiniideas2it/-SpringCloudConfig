@@ -1,7 +1,7 @@
 spring:
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/local
+    url: jdbc:mysql://localhost:3306/healthcare
     username: root
     password: Admin@123
   jpa:
